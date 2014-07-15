@@ -1,4 +1,4 @@
-# Automated ThruPLEX Library Preparations Installation Guide #
+# Automated ThruPLEX Library Preparation Installation Guide #
 **For Agilent NGS Workstation Option B**
 
 ## Contents ##
@@ -9,7 +9,7 @@
 5. [License](#license)
 
 ## Description ##
-This document describes how to set up the automated Nextera Rapid Capture protocol for the Agilent NGS Workstation created at NGI Stockholm.
+This document describes how to set up NGI Stockholms ThruPLEX method for the Agilent NGS Workstation. This protocol is used to prepare up to 96 samples with Rubicon Genomics' ThruPLEX-FD kit.
 
 ## Requirements ##
 - Agilent NGS Workstation :warning: <i><b>Option B only</i></b>
@@ -110,4 +110,4 @@ The full license can also be found in the file LICENSE and must included when re
 
 >[National Genomics Infrastructure][ngi] at [SciLifeLab][scilife]  
 <joel.gruselius@scilifelab.se>  
-May 2014
+July 2014
