@@ -72,6 +72,8 @@ Position | Type | Part#
 7        | Magnetic Bead Accessory | G5498b#008
 9        | Thermal Station (ThermoCube) | G5498b#036/7/8
 
+:warning:  Each `.pro` file **must have the correct device file set**.
+
 See the [VWorks Knowledge Base][device-file] for more information on how to select the device file.
 
 ## Protocol ##
