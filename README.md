@@ -20,7 +20,7 @@ This document describes how to set up NGI Stockholms ThruPLEX method for the Agi
 - Labware definitions*
 - Liquid classes definition*
 
-\* provided in `thruplex_labware_liquids.vzp`
+\* provided in `all_labware_liquids.vzp`
 
 #### Included files ####
 ```
@@ -34,6 +34,7 @@ thruplex_finish.pro
 thruplex_pcr.pro
 thruplex_transfer.pro
 thruplex_transfer2.pro
+all_labware_liquids.vzp
 resources/1313497192_media_controls_light_pause.png
 resources/1313497517_media_controls_light_play.png
 resources/clear_inventory.bat
@@ -58,7 +59,7 @@ and extract to `C:\VWorks Workspace\Protocol Files`
 
 ### Configure ###
 #### Labware and and liquid class definitions ####
-Use the import feature in VWorks from `File › Import`in the toolbar and select the `thruplex-labware-liquids.vzp` file included. See the [VWorks Knowledge Base][import] for more information.
+Use the import feature in VWorks from `File › Import`in the toolbar and select the `all_labware_liquids.vzp` file included. See the [VWorks Knowledge Base][import] for more information.
 
 #### Device files ####
 Device files and profiles are system specific and will not be provided. The "standard" Bravo configuration is used in the ThruPLEX protocols:
