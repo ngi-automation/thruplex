@@ -95,6 +95,11 @@ See the [VWorks Knowledge Base][device-file] for more information on how to sele
 
 The full license can also be found in the file LICENSE and must included when redistributing the software.
 
+If this method is used to genrate results for publication we ask that you include a reference to this repository, something like:
+```
+Automation protocols made available by NGI Sweden at https://github.com/ngi-automation/thruplex
+```
+
 *VWorks Automation Control*, *Bravo* and other things relating to the *Agilent NGS Workstation* are trademarks owned by Agilent Technologies, Inc. (Santa Clara, CA 95052-8058, US).
 
 *ThruPLEX* and *ThruPLEX-FD* are trademarks owned by Rubicon Genomics (Ann Arbor, MI 48108, US).
