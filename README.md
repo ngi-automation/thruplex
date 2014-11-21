@@ -9,7 +9,7 @@
 5. [License](#license)
 
 ## Description ##
-This document describes how to set up NGI Stockholms ThruPLEX method for the Agilent NGS Workstation. This protocol is used to prepare up to 96 samples with Rubicon Genomics' ThruPLEX-FD kit.
+This document describes how to set up NGI Stockholms ThruPLEX method for the Agilent NGS Workstation. This protocol is used to prepare up to 96 samples with Rubicon Genomics' ThruPLEX-FD or ThruPLEX DNA kit.
 
 ## Requirements ##
 - Agilent NGS Workstation :warning: <i><b>Option B only</i></b>
@@ -73,7 +73,7 @@ Position | Type | Part#
 7        | Magnetic Bead Accessory | G5498b#008
 9        | Thermal Station (ThermoCube) | G5498b#036/7/8
 
-:warning:  Each `.pro` file **must have the correct device file set**.
+:warning:  Each `.pro` file **must have the correct device file set**. Open each `.pro` file in VWorks and select the device file on your system corresponding to the configuration above.
 
 See the [VWorks Knowledge Base][device-file] for more information on how to select the device file.
 
