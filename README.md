@@ -55,7 +55,7 @@ git clone https://github.com/ngi-automation/thruplex.git
 
 Alternatively, download the compressed folder from:
 [`https://github.com/ngi-automation/thruplex/archive/master.zip`][zip]
-and extract to `C:\VWorks Workspace\Protocol Files`
+and extract to `C:\VWorks Workspace\Protocol Files`. Rename the resulting `thruplex-master` folder to `thruplex`. The path to the folder containing the extracted files should then be `C:\VWorks Workspace\Protocol Files\thruplex`. 
 
 ### Configure ###
 #### Labware and and liquid class definitions ####
@@ -102,12 +102,12 @@ Automation protocols made available by NGI Sweden at https://github.com/ngi-auto
 
 *VWorks Automation Control*, *Bravo* and other things relating to the *Agilent NGS Workstation* are trademarks owned by Agilent Technologies, Inc. (Santa Clara, CA 95052-8058, US).
 
-*ThruPLEX* and *ThruPLEX-FD* are trademarks owned by Rubicon Genomics (Ann Arbor, MI 48108, US).
+*ThruPLEX DNA* and *ThruPLEX-FD* are trademarks owned by Rubicon Genomics (Ann Arbor, MI 48108, US).
 
 [email]: mailto:joel.gruselius@scilifelab.se "E-mail author"
 [ngi]: https://portal.scilifelab.se/genomics/ "NGI Stockholm"
 [scilife]: http://www.scilifelab.se/platforms/ngi/ "SciLifeLab"
-[zip]: https://github.com/jgruselius/thruplex/archive/master.zip
+[zip]: https://github.com/ngi-automation/thruplex/archive/master.zip
 [import]: http://www.velocity11.com/techdocs/AutomationSolutionsKB/vworks4_ug/11_Troubleshooting.15.03.html#2005458
 [catalog]: http://www.chem.agilent.com/Library/catalogs/Public/5991-0369EN.pdf
 [sop]: http://goo.gl/IixcVn
