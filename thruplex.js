@@ -3,7 +3,7 @@ runset.clear();
 var path = "C:/VWorks Workspace/Protocol Files/thruplex/";
 var form = "thruplex.VWForm"
 
-run("C:/VWorks Workspace/Protocol Files/thruplex/resources/clear_inventory.bat", true);
+run(path + "resources/clear_inventory.bat", true);
 
 var runsetMode = false;	// Alt settings for library prep runset (true/false)
 formColumns = parseInt(formColumns, 10);
